@@ -1,1 +1,17 @@
-https://developer.apple.com/programs/enroll/
+Enlace curso
+    https://www.youtube.com/watch?v=VPvVD8t02U8
+
+Enlace para poder desplegar aplicaciones en ios(app store)
+    https://developer.apple.com/programs/enroll/
+
+Enlace para poder desplegar aplicaciones en android(play store)
+    https://play.google.com/console/u/0/signup
+
+Enlace de pagina web en la que probar codigo dart
+    https://dartpad.dev/
+
+Enlace para descargar e instalar el SDK de flutter
+    https://docs.flutter.dev/install/quick
+
+Comandos importante
+    flutter doctor(sirve para ver como esta tu instalacion de flutter)
